@@ -1,5 +1,7 @@
 .App {
+  margin: 20px;
   text-align: center;
+  background-color:saddlebrown;
 }
 
 .App-logo {
@@ -35,4 +37,17 @@
   to {
     transform: rotate(360deg);
   }
+}
+.Cards{
+  margin: 50px;
+  display:flex;
+  justify-content:center;
+
+}
+.Card-grid{
+  padding: 10px;
+
+}
+.SearchBar{
+  background-color:antiquewhite;
 }
